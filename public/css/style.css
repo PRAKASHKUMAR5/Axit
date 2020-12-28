@@ -10,12 +10,9 @@ body {
 *:before{
         -o-transition: all .4s ease;
     -webkit-transition: all .4s ease;
-    transition: all .4s ease;
-}
+    transition: all .4s ease;}
 
-/*html {
-  scroll-behavior: smooth;
-}*/
+
 
 * {
     box-sizing: border-box;
